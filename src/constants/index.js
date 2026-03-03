@@ -69,7 +69,6 @@ export const projects = [
       
     ],
     image: github,
-    source_code_link: "https://github.com/lohitkolluri/WeatherPedia",
   },
   
 ];
